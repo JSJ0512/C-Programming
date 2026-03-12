@@ -1,5 +1,5 @@
 `#include <iostream>`
-- cout , cin 객체 선언을 위한 iostream 해더파일
+- cout , cin 등등 객체 선언을 위한 iostream 해더파일
   
 `using namespace std;`
 - cout , cin을 간략하게 사용하기 위해 std 네임스페이스를 사용

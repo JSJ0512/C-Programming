@@ -4,7 +4,6 @@
 
 #include <iostream>
 using namespace std;
-
 int main() {
 	cout << "이름 : 홍길동\n";
 	cout << "주소 : 군산시 대학로 558\n";

@@ -25,7 +25,7 @@ int Rectangle::getPerimeter() {
 
 void Rectangle::getDown() {
     int a = x + width;
-    int b = y + height;
+    int b = y - height;
     cout << "사각형의 우측하단의 좌표는 (" << a << ", " << b << ")" << endl;
 }
 

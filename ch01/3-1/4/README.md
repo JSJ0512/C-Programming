@@ -49,8 +49,8 @@
 `int a = x + width;`
 - 정수형 변수 a에 x + width 값을 저장
   
-`int b = y + height;`
-- 정수형 변수 b에 y + height 값을 저장
+`int b = y - height;`
+- 정수형 변수 b에 y - height 값을 저장
   
 `cout << "사각형의 우측하단의 좌표는 (" << a << ", " << b << ")" << endl;}`
 - 화면에 다음과 같은 텍스트 출력

@@ -63,9 +63,12 @@
   
 `cout << "사각형의 면적은 " << rect.getArea() << endl;`
 - 객체 rect의 getArea()를 호출하여 계산된 값을 출력
+  
 `cout << "사각형의 둘레길이는 " << rect.getPerimeter() << endl;`
 - 객체 rect의 getPerimeter()를 호출하여 계산된 값을 출력
+  
 `rect.getDown();`
 - 객체 rect의 getDown()을 호출
+  
 `return 0;}`
 - 0을 반환 후 메인 함수 종료

@@ -33,7 +33,7 @@
   
 `int Rectangle::getArea() {`
 - Rectangle 클래스에 속한 getArea를 클래스 밖에서 정
-- 
+  
 `return width * height;}`
 - 다음과 같은 식을 계산하여 반환
   

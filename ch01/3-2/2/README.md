@@ -14,7 +14,7 @@
 - public 아래에 속하는 변수와 함수를 클래스 외부에서 접근 가능하도록 함
   
 `Triangle() : Triangle(1, 1) {}`
-- Triangle() 기본 생성자에 Triangle(int a, int b) 위임생성자를 위임함
+- Triangle() 위임 생성자에 Triangle(int a, int b) 위임생성자를 위임함
   
 `Triangle(int a, int b) : down(a), height(b) {}`
 - 멤버 변수들을 초기화 리스트로 초기화함

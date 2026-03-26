@@ -1,6 +1,6 @@
-# Title : 2-1-4
-# Author : Jeon sejin
-# Data : 2026 3.12
+// Title : 2-1-4
+// Author : Jeon sejin
+// Data : 2026 3.12
 
 #include <iostream>
 using namespace std;

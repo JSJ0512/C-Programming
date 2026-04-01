@@ -1,10 +1,10 @@
 #define _CRT_SECURE_NO_WARNINGS
 - strcpy 사용을 위한 보안 경고 무시 지시문
   
-'#include <iostream>'
+-#include <iostream>
 - cout 등등 객체 선언을 위한 iostream 해더파일
-  
-'#include <cstring>'
+
+-#include <cstring>
 - C 문자열 관련 함수를 사용하기 위해 포함하는 전처리 명령
   
 using namespace std;

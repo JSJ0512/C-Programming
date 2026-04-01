@@ -41,12 +41,16 @@ return radius;}
 - 0을 반환 후 메인 함수 종료
 
 int main() {
--
-	Circle waffle;
-  -
-	waffle.setRadius(5);
-  -
-	cout << "원의 반지름은 " << waffle.getRadius() << endl;
-  -
-	return 0;}
-  -
+- 메인 함수 시작
+
+Circle waffle;
+- Circle 클래스의 객체 waffle 생성
+  
+waffle.setRadius(5);
+- waffle 객체의 setRadius 값을 5로 저장
+
+cout << "원의반지름은 " << waffle.getRadius() << endl;
+- 화면에 다음과 같은 텍스트 출력
+
+return 0;}
+- 0을 반환 후 메인 함수 종료

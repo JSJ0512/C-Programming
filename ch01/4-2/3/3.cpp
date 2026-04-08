@@ -11,6 +11,7 @@ int main()
 	cin >> a;
 	if (a <= 0) return -1;
 	int* p = new int[a];
+	
 	if (!p) {
 		cout << "메모리를 할당할 수 없습니다.";
 		return -1;

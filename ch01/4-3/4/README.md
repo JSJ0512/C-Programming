@@ -47,7 +47,7 @@ a = m, b = h;}
 - a의 값은 m , b의 값은 h 로 초기화
   
 double getArea() {
-- 실수형 변수 getARea() 함수 선언
+- getARea() 함수 선언
   
 return 0.5 * a * b;}};
 - 다음과 같은 식을 계산하여 반환

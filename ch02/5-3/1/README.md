@@ -4,7 +4,7 @@
 
 - 변수의 복사본이 아닌 원본 메모리 공간을 직접 반환하는 것임
 
-- 값이 1,2,3으로 1씩 증가되며 cout 2번째 3번째 줄의 ref와ref2를 전부 n으로 바꾸어도 n에 대한 참조 리턴을 하였기 때문에 정상 작동을 
+- 값이 1,2,3으로 1씩 증가되며 cout 2번째 3번째 줄의 ref와ref2를 전부 n으로 바꾸어도 n에 대한 참조 리턴을 하였기 때문에 정상 작동을 함  
 
 코드 <img width="432" height="333" alt="image" src="https://github.com/user-attachments/assets/d6c9b232-9e9e-4d61-90b1-1fef241e6450" />
 

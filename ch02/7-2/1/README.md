@@ -23,7 +23,7 @@ img = i;}
 - i의 값을 img에 저장
   
 Complex operator+(Complex a) {
-- + 연산자 함수 선언
+- '+' 연산자 함수 선언
     
 Complex tmp;
 - tmp 객체 생성

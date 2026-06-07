@@ -11,7 +11,7 @@ public:
 		real = r;
 		img = i;
 	}
-	Complex operator+=(Complex a) {
+	Complex& operator+=(Complex a) {
 		real += a.real;
 		img += a.img;
 		return *this;

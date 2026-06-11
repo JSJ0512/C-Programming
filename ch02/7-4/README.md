@@ -29,7 +29,7 @@ friend ostream& operator<<(ostream& c, Complex& b);};
 - friend 함수를 이용해 << 연산자 선언
   
 istream& operator>>(istream& a, Complex& b) {
-- >> 연산자 함수 정의
+- '>>' 연산자 함수 정의
   
 cout << "실수부:";
 - 화면에 다음과 같은 텍스트 출력
@@ -47,7 +47,7 @@ return a;}
 - a 값을 반환함
   
 ostream& operator<<(ostream& c, Complex& b) {
-- << 연산자 함수 정의
+- '<<' 연산자 함수 정의
   
 c << b.real << b.img << "j" << endl;
 - 화면에 다음과 같은 텍스트 출력
